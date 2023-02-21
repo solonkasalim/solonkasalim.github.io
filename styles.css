@@ -281,6 +281,17 @@ footer p a{
 	color: darkorange;
 	font-weight: 400;
 }
+footer a{
+	width: 50px;
+	height: 50px;
+
+}
+footer a i{
+	color: #111;
+	border-radius: 30px;
+	width: 50px;
+	height: 50px;
+}
 @media(max-width: 720px){
 	header,
 	header.sticky{
